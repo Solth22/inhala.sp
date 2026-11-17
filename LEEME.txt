@@ -1,0 +1,17 @@
+INHALA SPA & WELLNESS — SITIO WEB
+
+Archivos incluidos:
+- inhala-spa.html: página para clientes.
+- inhala-admin.html: panel administrativo con credenciales de acceso.
+- inhala-logo.png: logotipo.
+- inhala-barber-photo.png: imagen del estudio de barbería.
+
+Para abrirlo en VS Code:
+1. Extrae el ZIP en una carpeta y abre esa carpeta en VS Code.
+2. Inicia Live Server y abre inhala-spa.html.
+3. Abre inhala-admin.html en el mismo navegador y origen.
+4. Ingresa la contraseña de administración proporcionada al dueño. El acceso muestra un solo campo. Puedes cambiar la contraseña desde la sección Seguridad del panel.
+
+Tras 3 intentos incorrectos, el acceso se bloquea por 15 minutos en ese navegador. Este acceso es una demostración local; no brinda protección real en un sitio publicado porque la validación ocurre en el navegador. Para administrar el sitio en internet con seguridad hace falta autenticación y almacenamiento en un servidor.
+
+Las imágenes originales de spa se cargan desde Unsplash y requieren conexión a internet. Google Maps, Google Fonts y WhatsApp también necesitan conexión.
